@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct Continent: Decodable, Identifiable {
+    
+    let id = UUID()
+    var continent: String
+    var flags: [Flag]
+    
+    
+}

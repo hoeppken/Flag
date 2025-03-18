@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct Flag: Decodable, Identifiable {
+    
+    let id = UUID()
+    var name: String
+    var about: String
+    var image: String
+    
+}

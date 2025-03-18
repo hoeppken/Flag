@@ -1,0 +1,122 @@
+[
+  {
+    "continent": "North America",
+    "flags": [
+      {
+        "name": "Canada",
+        "about": "Add the text here",
+        "image": "canada"
+      },
+      {
+        "name": "Cuba",
+        "about": "Add the text here",
+        "image": "cuba"
+      },
+      {
+        "name": "El Salvador",
+        "about": "Add the text here",
+        "image": "elSalvador"
+      }
+    ]
+  },
+  {
+    "continent": "South America",
+    "flags": [
+      {
+        "name": "Brazil",
+        "about": "Add the text here",
+        "image": "brazil"
+      },
+      {
+        "name": "Argentina",
+        "about": "Add the text here",
+        "image": "argentina"
+      },
+      {
+        "name": "Venezuela",
+        "about": "Add the text here",
+        "image": "venezuela"
+      }
+    ]
+  },
+  {
+    "continent": "Africa",
+    "flags": [
+      {
+        "name": "Tunisia",
+        "about": "Add the text here",
+        "image": "tunisia"
+      },
+      {
+        "name": "Malawi",
+        "about": "Add the text here",
+        "image": "malawi"
+      },
+      {
+        "name": "South Africa",
+        "about": "Add the text here",
+        "image": "southAfrica"
+      }
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "flags": [
+      {
+        "name": "Fiji",
+        "about": "Add the text here",
+        "image": "fiji"
+      },
+      {
+        "name": "Australia",
+        "about": "Add the text here",
+        "image": "australia"
+      },
+      {
+        "name": "New Zealand",
+        "about": "Add the text here",
+        "image": "newZealand"
+      }
+    ]
+  },
+  {
+    "continent": "Asia",
+    "flags": [
+      {
+        "name": "Japan",
+        "about": "Add the text here",
+        "image": "japan"
+      },
+      {
+        "name": "South Korea",
+        "about": "Add the text here",
+        "image": "southKorea"
+      },
+      {
+        "name": "Georgia",
+        "about": "Add the text here",
+        "image": "georgia"
+      }
+    ]
+  },
+  {
+    "continent": "Europe",
+    "flags": [
+      {
+        "name": "Germany",
+        "about": "Add the text here",
+        "image": "germany"
+      },
+      {
+        "name": "Iceland",
+        "about": "Add the text here",
+        "image": "iceland"
+      },
+      {
+        "name": "Italy",
+        "about": "Add the text here",
+        "image": "italy"
+      }
+    ]
+  }
+]
