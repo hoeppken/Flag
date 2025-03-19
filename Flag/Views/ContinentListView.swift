@@ -15,14 +15,14 @@ struct ContinentListView: View {
         
         ScrollView (showsIndicators: false){
             
-            LazyVGrid (columns: [GridItem(),GridItem()], spacing:20){
+            LazyVGrid (columns: [GridItem(spacing: 20),GridItem(spacing: 20)], spacing: 20){
                 
                 ForEach (continent.flags) { f in
                 
                     NavigationLink {
                         DetailView(flags: f )
                     } label: {
-                        Image(f.image).resizable().aspectRatio(contentMode:.fill)
+                        Image(f.image).resizable().aspectRatio(contentMode:.fill).cornerRadius(10).clipped().shadow(radius: 10)
                     }
                     
                     

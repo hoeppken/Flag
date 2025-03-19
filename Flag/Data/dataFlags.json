@@ -4,17 +4,17 @@
     "flags": [
       {
         "name": "Canada",
-        "about": "Add the text here",
+        "about": "A red flag with a white square in the center, featuring a red maple leaf.",
         "image": "canada"
       },
       {
         "name": "Cuba",
-        "about": "Add the text here",
+        "about": "A blue and white striped flag with a red triangle containing a white star.",
         "image": "cuba"
       },
       {
         "name": "El Salvador",
-        "about": "Add the text here",
+        "about": "A blue and white horizontal striped flag with the national coat of arms in the center.",
         "image": "elSalvador"
       }
     ]
@@ -24,17 +24,17 @@
     "flags": [
       {
         "name": "Brazil",
-        "about": "Add the text here",
+        "about": "A green flag with a yellow diamond enclosing a blue globe with 27 white stars and a banner.",
         "image": "brazil"
       },
       {
         "name": "Argentina",
-        "about": "Add the text here",
+        "about": "A light blue and white horizontal striped flag with a golden sun in the center.",
         "image": "argentina"
       },
       {
         "name": "Venezuela",
-        "about": "Add the text here",
+        "about": "A yellow, blue, and red horizontal tricolor with an arc of white stars in the center.",
         "image": "venezuela"
       }
     ]
@@ -44,17 +44,17 @@
     "flags": [
       {
         "name": "Tunisia",
-        "about": "Add the text here",
+        "about": "A red flag with a white circle containing a red crescent and a red five-pointed star.",
         "image": "tunisia"
       },
       {
         "name": "Malawi",
-        "about": "Add the text here",
+        "about": "A black, red, and green horizontal tricolor with a rising red sun in the top stripe.",
         "image": "malawi"
       },
       {
         "name": "South Africa",
-        "about": "Add the text here",
+        "about": "A multicolored flag with green, black, white, yellow, red, and blue in a Y-shape design.",
         "image": "southAfrica"
       }
     ]
@@ -64,17 +64,17 @@
     "flags": [
       {
         "name": "Fiji",
-        "about": "Add the text here",
+        "about": "A light blue flag with the Union Jack in the top left corner and the Fijian shield on the right.",
         "image": "fiji"
       },
       {
         "name": "Australia",
-        "about": "Add the text here",
+        "about": "A blue flag with the Union Jack, a large white star, and the Southern Cross constellation.",
         "image": "australia"
       },
       {
         "name": "New Zealand",
-        "about": "Add the text here",
+        "about": "A blue flag with the Union Jack and four red stars with white borders representing the Southern Cross.",
         "image": "newZealand"
       }
     ]
@@ -84,17 +84,17 @@
     "flags": [
       {
         "name": "Japan",
-        "about": "Add the text here",
+        "about": "A white flag with a red circle in the center, symbolizing the sun.",
         "image": "japan"
       },
       {
         "name": "South Korea",
-        "about": "Add the text here",
+        "about": "A white flag with a red and blue Taegeuk symbol in the center, surrounded by four black trigrams.",
         "image": "southKorea"
       },
       {
         "name": "Georgia",
-        "about": "Add the text here",
+        "about": "A white flag with a large red cross and four smaller red crosses in each quadrant.",
         "image": "georgia"
       }
     ]
@@ -104,17 +104,17 @@
     "flags": [
       {
         "name": "Germany",
-        "about": "Add the text here",
+        "about": "A black, red, and gold horizontal tricolor.",
         "image": "germany"
       },
       {
         "name": "Iceland",
-        "about": "Add the text here",
+        "about": "A blue flag with a red cross outlined in white.",
         "image": "iceland"
       },
       {
         "name": "Italy",
-        "about": "Add the text here",
+        "about": "A vertical tricolor of green, white, and red.",
         "image": "italy"
       }
     ]

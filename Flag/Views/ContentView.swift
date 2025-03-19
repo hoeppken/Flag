@@ -19,8 +19,9 @@ struct ContentView: View {
         NavigationStack {
             
             ScrollView (showsIndicators: false){
+                Spacer()
                 
-                VStack (spacing: 20){
+                VStack (spacing: 50){
                     
                     ForEach(continents) { cont in
                         
@@ -30,10 +31,14 @@ struct ContentView: View {
                         } label: {
                             
                             ZStack{
-                                RoundedRectangle(cornerRadius: 10)
+                                RoundedRectangle(cornerRadius: 20)
+                                    .foregroundColor(.yellow)
+                                    .frame(width:300)
+                                
+                                
                                 HStack {
                                     
-                                    Image(systemName: "globe.fill")
+                                    Image(systemName: "flag.fill")
                                     Text(cont.continent).bold()
                                     
                                 }.foregroundStyle(.black).padding(.vertical)
@@ -47,7 +52,7 @@ struct ContentView: View {
                 }.padding(.horizontal)
                 
                 
-            }.navigationTitle(Text("Continents of the World"))
+            }.navigationTitle(Text("Choose a Continent..."))
             
         }.onAppear {
             self.continents = DataService().getFileData()

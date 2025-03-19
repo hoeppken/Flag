@@ -15,18 +15,19 @@ struct DetailView: View {
         
         VStack (alignment: .leading) {
             
-            HStack (alignment:.top) {
+            VStack (alignment:.leading) {
                 Image(flags.image)
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(height: 200)
+                    .shadow(radius: 1)
+                   
                 
-                VStack (alignment: .leading) {
-                    Text("Any Text")
+                    Text("Official Flag")
                         .bold()
                         .padding(.bottom, 20)
                    
-                }
+                
             }
                 
             Text(flags.about)
